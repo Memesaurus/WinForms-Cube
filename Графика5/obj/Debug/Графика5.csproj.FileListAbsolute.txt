@@ -1,0 +1,10 @@
+c:\users\memesaurus\source\repos\Графика5\Графика5\bin\Debug\Графика5.exe.config
+c:\users\memesaurus\source\repos\Графика5\Графика5\bin\Debug\Графика5.exe
+c:\users\memesaurus\source\repos\Графика5\Графика5\bin\Debug\Графика5.pdb
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.csprojAssemblyReference.cache
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.Form1.resources
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.Properties.Resources.resources
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.csproj.GenerateResource.cache
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.csproj.CoreCompileInputs.cache
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.exe
+c:\users\memesaurus\source\repos\Графика5\Графика5\obj\Debug\Графика5.pdb
